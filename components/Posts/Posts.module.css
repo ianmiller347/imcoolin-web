@@ -1,0 +1,15 @@
+.postscontainer {
+  display: block;
+  width: 900px;
+  max-width: 100%;
+}
+
+.posts {
+  margin: 0;
+  padding: 0;
+}
+
+.post {
+  list-style: none;
+  margin-bottom: 1rem;
+}
